@@ -1,3 +1,8 @@
 package library
 
-type Book struct{}
+/*A book.*/
+
+type Book struct {
+	Id    string
+	title string
+}

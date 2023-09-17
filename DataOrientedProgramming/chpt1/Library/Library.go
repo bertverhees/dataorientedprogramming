@@ -1,3 +1,8 @@
 package library
 
-type Library struct{}
+/*The central part of the system design.*/
+
+type Library struct {
+	Name    string
+	Address string
+}
