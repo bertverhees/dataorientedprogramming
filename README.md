@@ -1,2 +1,0 @@
-# DataOrientedProgramming
-# DataOrientedProgramming
