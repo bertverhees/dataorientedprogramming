@@ -18,3 +18,11 @@ func login(userManagementData UserManagement, loginInfo []string) bool {
 func IsLibrarian(userManagementData UserManagement, userId string) bool {
 	return false
 }
+
+func IsSuperMember(userManagementData UserManagement, userId string) bool {
+	return false
+}
+
+func IsVIPMember(userManagementData UserManagement, userId string) bool {
+	return false
+}

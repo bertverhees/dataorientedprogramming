@@ -17,7 +17,7 @@ func CheckOutBook(catalogData Catalog, bookItemId string) bool {
 }
 
 func ReturnBook(catalogData Catalog, searchQuery string) bool {
-	return nil
+	return false
 }
 
 func GetBookLendings(catalogData Catalog, userId string, memberId string) []library.BookLending {
